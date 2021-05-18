@@ -16,7 +16,7 @@ while True:
         print("User does not exist..")
         response = input("You wanna get added up ? Press Y/y to add and N/n to not add ").lower()
         if response == "y":
-            List_users.append(users)
+            List_users.append(users)    ### Appending the users to the list
             print(List_users)
             print("User {} successfully added".format(users_cap))
         else:
