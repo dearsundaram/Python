@@ -1,8 +1,6 @@
 import os
 import filecmp
 import time
-import difflib
- 
 ### Creating plugin file variables ###
 plugin = r"C:\Users\ChidambaraSundaramP\Desktop\HCT_PrinterIssue\IHS_1_to_WAS_1.xml"
 ref_plugin = r"C:\Users\ChidambaraSundaramP\Desktop\HCT_PrinterIssue\IHS_1_to_WAS_1_Orig.xml"
